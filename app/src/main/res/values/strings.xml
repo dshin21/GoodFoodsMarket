@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoodFoodsMarket</string>
+    <string name="logo">Good Foods Market</string>
+    <string-array name="categories">
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Bakery</item>
+    </string-array>
+</resources>
